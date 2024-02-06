@@ -111,3 +111,4 @@ This data model allows for efficient storage and retrieval of customer informati
 
 Please note that this README provides a comprehensive overview of the SwiftCart project, including team members, technologies, challenges, infrastructure, APIs, data model, and user stories. It serves as a guide for understanding the project and its objectives.
 
+
